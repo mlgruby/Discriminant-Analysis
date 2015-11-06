@@ -1,5 +1,5 @@
 # Discriminant-Analysis
-Implementation of Discriminant Analysis (Linear and Quadertic) in R.
+Implementation of Discriminant Analysis (Linear and Quadratic) in R.
 
 ### Uses
 
